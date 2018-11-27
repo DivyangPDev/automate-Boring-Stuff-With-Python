@@ -11,4 +11,7 @@ For anyone who wants to learn coding in Python and wants to learn the basics of 
 - Updating or formatting Excel spreadsheets
 - Checking your email and sending out prewritten responses
 
-You can have your computer do these tasks for you just by little programming. 
+You can have your computer do these tasks for you just by little programming.
+
+This repository contains the Practise Questions given in the book and solved in a Chapter-wise manner. 
+ 
