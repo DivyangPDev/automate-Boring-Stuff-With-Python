@@ -47,3 +47,32 @@
 # Q14) What goes in the try clause? What goes in the except clause?
 # The code that could potentially cause an error goes in the try clause.
 # The code that executes if an error happens goes in the except clause.
+
+def collatz(number):
+	if number % 2 ==0:
+		evenNum = number //2
+		print(evenNum)
+		return evenNum
+	else:
+		oddNum = 3*number+1
+		print(oddNum)
+		return oddNum
+
+
+if __name__ == "__main__":
+	num = int(input("Enter number: "))
+	result = collatz(num)
+	while result != 1:
+		result = collatz(result)
+
+
+
+
+
+
+
+
+
+
+
+
