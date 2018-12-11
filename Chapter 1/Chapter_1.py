@@ -2,12 +2,12 @@
 
 #PRACTISE QUESTIONS -
 #Q1) * - Operator
-#    'hello' - value
-    # -88.8 - value
-    # - - Operator
-    # / - Operator
-    # + - Operator
-    # 5 - value
+#  'hello' - value
+# -88.8 - value
+# - - Operator
+# / - Operator
+# + - Operator
+# 5 - value
 
 # Q2) spam - variable
 # 'spam' - string
